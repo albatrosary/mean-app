@@ -14,6 +14,7 @@ cd mean-app
 yarn
 yarn add enhanced-resolve
 ```
+`enhanced-resolve` was not installed by yarn.
 
 ## Build & Development
 Run `ng build --aot true && node server.js` for a express server. Navigate to `http://localhost:3000/`.
